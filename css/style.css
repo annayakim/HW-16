@@ -1,0 +1,13 @@
+.bg-box {
+  height: 1000px;
+  background-color: green;
+  background-image: url(https://naurok-test.nyc3.cdn.digitaloceanspaces.com/uploads/test/534974/131976/825430_1585903077.jpg),
+    url(https://www.freeiconspng.com/uploads/grass-png-images-pictures-transparent-28.png),
+    url(https://www.freeiconspng.com/uploads/lamp-png-0.png),
+    url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru),
+    url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png);
+
+  background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+  background-position: center, bottom center, top, left, right;
+  background-size: auto, 200px 120px, 50px, 40px, 40px;
+}
